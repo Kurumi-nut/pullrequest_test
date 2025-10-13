@@ -1,0 +1,17 @@
+{
+  "description_length": {
+    "threshold": 200,
+    "merge_importance": 0.42,
+    "interpretation": "PRの説明文が200文字を超えるとマージ確率が低下"
+  },
+  "src_churn": {
+    "threshold": 800,
+    "merge_importance": 0.25,
+    "interpretation": "コード変更行数が800行を超えるとマージされにくい"
+  },
+  "num_commits": {
+    "threshold": 10,
+    "merge_importance": 0.10,
+    "interpretation": "コミット数が10件を超えるとマージ率が低下"
+  }
+}

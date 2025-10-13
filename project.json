@@ -1,0 +1,22 @@
+[
+  {"owner": "pytorch", "repo": "pytorch"},
+  {"owner": "tensorflow", "repo": "tensorflow"},
+  {"owner": "scikit-learn", "repo": "scikit-learn"},
+  {"owner": "pandas-dev", "repo": "pandas"},
+  {"owner": "numpy", "repo": "numpy"},
+  {"owner": "huggingface", "repo": "transformers"},
+  {"owner": "django", "repo": "django"},
+  {"owner": "pallets", "repo": "flask"},
+  {"owner": "ansible", "repo": "ansible"},
+  {"owner": "apache", "repo": "airflow"},
+  {"owner": "psf", "repo": "requests"},
+  {"owner": "tiangolo", "repo": "fastapi"},
+  {"owner": "scrapy", "repo": "scrapy"},
+  {"owner": "sqlalchemy", "repo": "sqlalchemy"},
+  {"owner": "pytest-dev", "repo": "pytest"},
+  {"owner": "streamlit", "repo": "streamlit"},
+  {"owner": "matplotlib", "repo": "matplotlib"},
+  {"owner": "pytorch", "repo": "ignite"},
+  {"owner": "facebookresearch", "repo": "detectron2"},
+  {"owner": "keras-team", "repo": "keras"}
+]
