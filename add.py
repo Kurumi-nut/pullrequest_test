@@ -9,5 +9,5 @@ for i in range(n):
     num = int(input(f"{i+1}番目の数値を入力してください: "))
     total += num
 
-# 結果を表示する
+# 結果を表示する.
 print(f"{n}個の数値の合計は {total} です。")
