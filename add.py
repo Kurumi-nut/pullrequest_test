@@ -10,4 +10,4 @@ for i in range(n):
     total += num
 
 # 結果を表示する.
-print(f"{n}個の数値の合計は {total} です。")
+print(f"{n}個の数値の合計は {total} です")
